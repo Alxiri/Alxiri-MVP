@@ -1,3 +1,6 @@
+
+![Alt text](/Imagenes/Recurso_2@4x.png?raw=true "Logo")
+
 # Alxiri
 MVP for the Andino DAO Hackaton 2022
 
