@@ -1,12 +1,12 @@
 
-![Alt text](/Imagenes/Recurso_2@4x.png?raw=true "Logo")
+![Alt text](/Imagenes/Recurso-2@4x.png?raw=true "Logo")
 
 # Alxiri
 MVP for the Andino DAO Hackaton 2022
 
 ## Alxiri Permite:
 
-A los Compradores:
+A los Compradores
 
     1. 
     2. 
