@@ -6,20 +6,10 @@ MVP for the Andino DAO Hackaton 2022
 
 ## Alxiri Permite:
 
-A los Compradores
+1. Las pequeñas empresas o pymes y personas naturales con negocios   quieren iniciar a vender sus productos pero no cuentan con un medio adecuado e inmediato para hacerlo, ante ello creamos Alxiri donde  planteamos la combinación de  blockchain con web 3 para solucionar y facilitar.
+2. VALOR AGREGADO:  facilidades de costeos, métricas de ventas y proyecciones de oferta y demanda que usando otros programas tiene mayor costo de inversión.
+3. Alxiri cuenta con su partnership que le permitirá que los ingresos  pasen a ser crypto
 
-    1. 
-    2. 
-    3. 
-    4. 
-
-
-A los Vendedores:
-
-    1. 
-    2. 
-    3. 
-    4. 
 
 ## Pre-requisitos
 
