@@ -51,7 +51,7 @@ MVP for the Andino DAO Hackaton 2022
 ```
 ## Equipo
 - [Humberto Melendez](mailto:xxtochoxx@gmail.com)
-- [Evelyn Sharon](mailto:egreyes8902@gmail.com)
+- [Evelyn Sharon Gil Reyes](mailto:egreyes8902@gmail.com)
 - [Diana Noemi Castañeda](mailto:dianacastanedaalipio@gmail.com)
 - [Nahely Xiomara Najarro](mailto:nahely12345@gmail.com)
 - [Ebed Guerra](mailto:bedguerra@gmail.com)
