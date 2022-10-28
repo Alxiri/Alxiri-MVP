@@ -20,11 +20,17 @@ MVP for the Andino DAO Hackaton 2022
 
 ## Diagrama de la Solucion:
 
+<img width="1019" alt="1" src="https://user-images.githubusercontent.com/7839541/198742270-799c7b08-6ee1-450b-9c3a-c79df7cb834f.png">
+
 ## Pre-requisitos
 
 ## Despliege y Ejecucion del contrato
 
+https://github.com/Alxiri/magento-docker
+
 ## Video de Presentacion de la Solucion
+
+...
 
 ## Estructura de la Solucion 
 ```
