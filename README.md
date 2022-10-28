@@ -55,5 +55,6 @@ MVP for the Andino DAO Hackaton 2022
 - [Diana Noemi Castañeda](mailto:dianacastanedaalipio@gmail.com)
 - [Nahely Xiomara Najarro](mailto:nahely12345@gmail.com)
 - [Ebed Guerra](mailto:bedguerra@gmail.com)
+- [Tans Ortega](tansortega@gmail.com)
 - [Julio M Cruz](mailto:julio.cruz@eb-ms.net)
 
