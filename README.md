@@ -10,9 +10,6 @@ MVP for the Andino DAO Hackaton 2022
 2. VALOR AGREGADO:  facilidades de costeos, métricas de ventas y proyecciones de oferta y demanda que usando otros programas tiene mayor costo de inversión.
 3. Alxiri cuenta con su partnership que le permitirá que los ingresos  pasen a ser crypto
 
-
-## Pre-requisitos
-
 ## Roadmap
 
 ![Alt text](/Documentacion/RoadMap.png?raw=true "Roadmap")
@@ -22,6 +19,8 @@ MVP for the Andino DAO Hackaton 2022
 ![Alt text](/Moqups/Flujo.png?raw=true "Flujo")
 
 ## Diagrama de la Solucion:
+
+## Pre-requisitos
 
 ## Despliege y Ejecucion del contrato
 
@@ -55,6 +54,6 @@ MVP for the Andino DAO Hackaton 2022
 - [Evelyn Sharon](mailto:egreyes8902@gmail.com)
 - [Diana Noemi Castañeda](mailto:dianacastanedaalipio@gmail.com)
 - [Nahely Xiomara Najarro](mailto:nahely12345@gmail.com)
-- [Ebed Guerra Ebedguerra](mailto:bedguerra@gmail.com)
+- [Ebed Guerra](mailto:bedguerra@gmail.com)
 - [Julio M Cruz](mailto:julio.cruz@eb-ms.net)
 
