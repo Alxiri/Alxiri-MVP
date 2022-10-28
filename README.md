@@ -23,6 +23,10 @@ A los Vendedores:
 
 ## Pre-requisitos
 
+## Roadmap
+
+![Alt text](/Documentacion/RoadMap.png?raw=true "Roadmap")
+
 ## Wireframes
 
 ## Diagrama de la Solucion:
