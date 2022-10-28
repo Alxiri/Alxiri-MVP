@@ -29,6 +29,8 @@ A los Vendedores:
 
 ## Wireframes
 
+![Alt text](/Moqups/Flujo.png?raw=true "Flujo")
+
 ## Diagrama de la Solucion:
 
 ## Despliege y Ejecucion del contrato
