@@ -30,7 +30,8 @@ https://github.com/Alxiri/magento-docker
 
 ## Video de Presentacion de la Solucion
 
-...
+https://youtu.be/xjKA6wXCDHA
+
 
 ## Estructura de la Solucion 
 ```
